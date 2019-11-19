@@ -12,9 +12,9 @@ def summon_captain_planet(veggies)  # code an argument here
   end 
 end
 
-def long_planeteer_calls(roll_call_dwarves) # code an argument here
+def long_planeteer_calls(calls) # code an argument here
   # Your code here
-  long_planeteer_calls.include?
+  long_planeteer_calls.include?(calls_long)
   end
 end
 
