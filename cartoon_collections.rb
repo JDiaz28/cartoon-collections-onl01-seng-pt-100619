@@ -12,7 +12,7 @@ def summon_captain_planet(veggies)  # code an argument here
   end
 end
 
-def long_planeteer_calls(calls_long) # code an argument here
+def long_planeteer_calls(word) # code an argument here
   # Your code here
   long_planeteer_calls.include?(calls_long)
 
