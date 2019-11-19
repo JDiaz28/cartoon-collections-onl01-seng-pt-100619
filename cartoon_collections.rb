@@ -14,8 +14,8 @@ end
 
 def long_planeteer_calls(word) # code an argument here
   # Your code here
-  word.each do |number|
-    puts  "#{number}"
+  if word.size < 4
+    puts true
   end
 end
 
