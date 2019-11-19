@@ -12,8 +12,10 @@ def summon_captain_planet(veggies)  # code an argument here
   end 
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(word) # code an argument here
   # Your code here
+  word.each do |number|
+    puts  "#{number.size}"
 end
 
 def find_the_cheese(type) # code an argument here
