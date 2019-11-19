@@ -14,7 +14,7 @@ end
 
 def long_planeteer_calls(calls_long) # code an argument here
   # Your code here
-  long_planeteer_calls.include?
+  long_planeteer_calls.include?(calls_long.size < 4)
 
 end
 
