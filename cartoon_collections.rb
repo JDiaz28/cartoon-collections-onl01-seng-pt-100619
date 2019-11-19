@@ -15,7 +15,7 @@ end
 def long_planeteer_calls(word) # code an argument here
   # Your code here
   word.each do |number|
-    puts  "#{number.size}"
+    puts  "#{number}"
 end
 
 def find_the_cheese(type) # code an argument here
